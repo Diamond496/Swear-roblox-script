@@ -1,7 +1,7 @@
 if not getgenv() then return end
 
 if not getgenv().method or getgenv().method == nil then
-	getgenv().method = "  "
+	getgenv().method = "fn"
 end
 
 repeat
@@ -77,7 +77,11 @@ queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/dadd
 
 	local Bypasses = {
 
-		["ass"] = "as{{aieixzvzx:s}}",
+		["ass"] = "as{{aieixzvzx:s}}", 
+                ["bitchh"] = "bi{{aieixzvzx:tchh}}",
+		["fuckk"] = "fu{{aieixzvzx:ckk}}", 
+                ["dickk"] = "di{{zczxczvz:ckk}}",
+		["coc"] = "co{{aieixzvzx:c}}",
 		["asshole"] = "as{{aieixzvzx:shole}}",
 		["deadass"] = "dead as{{aieixzvzx:s}}",
 		["arse"] = "ar{{aieixzvzx:se}}", --NEW
@@ -97,8 +101,8 @@ queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/dadd
 		["fuck"] = "fu{{aieixzvzx:ck}}",
 		["fucks"] = "fu{{aieixzvzx:cks}}",
 		["fucked"] = "fu{{aieixzvzx:cked}}",
-		["fucking"] = "fu{{aieixzvzx:cking}}",
-		["fuckin"] = "fu{{aieixzvzx:ckin}}",
+		["fucking"] = "fu{{aieixzvzx:ckign}}",
+		["fuckin"] = "fu{{aieixzvzx:ckign}}",
 		["gaylord"] = "gayl{{aieixzvzx:ord}}",
 		["gaylords"] = "gayl{{aieixzvzx:ords}}",  
 		["bastard"] = "bas{{aieixzvzx:tard}}",  --NEW
@@ -138,11 +142,14 @@ queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/dadd
 		["kills"] = "ki{{aieixzvzx:lls}}",  
 		["killing"] = "ki{{aieixzvzx:lling}}",  
 		["gay"] = "g{{aieixzvzx:ay}}",
+		["gaay"] = "g{{aieixzvzx:aay}}",
 		["gays"] = "g{{aieixzvzx:ays}}",
 		["sex"] = "se{{aieixzvzx:x}}",
+		["sexyy"] = "se{{aieixzvzx:xyy}}",
 		["sexy"] = "se{{aieixzvzx:xy}}",
 		["sexting"] = "se{{aieixzvzx:xting}}",
 		["porn"] = "po{{aieixzvzx:rn}}",
+		["pornn"] = "po{{aieixzvzx:rnn}}",
 		["love"] = "l{{aieixzvzx:ove}}",
 		["loves"] = "l{{aieixzvzx:oves}}",  
 		["lover"] = "l{{aieixzvzx:over}}",  
